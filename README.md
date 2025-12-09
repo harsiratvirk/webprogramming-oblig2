@@ -1,4 +1,4 @@
-# Submission 2 for DATA1700 Web Programming
+# Assignment 2 for DATA1700 Web Programming
 
 **OsloMet username:** hakau9101
 
